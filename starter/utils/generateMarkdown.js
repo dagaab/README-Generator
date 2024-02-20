@@ -6,6 +6,8 @@ function generateMarkdown(data) {
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#test)
   * [Questions](#questions)
   * [Licence](#licence)
   ## Description
@@ -14,6 +16,10 @@ function generateMarkdown(data) {
   ${data.installation}
   ## Usage
   ${data.usage}
+  ## Contributing
+  ${data.contributing}
+  ## Tests
+  ${data.test}
   ## Questions
   If you have any questions regarding this repo, contact me via GitHub: ${data.username}, or via email: ${data.email}
   ## Licence
